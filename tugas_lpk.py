@@ -1,6 +1,7 @@
 import streamlit as st
 
 #PEMBUKAAN
+st.image("Ester Moon.jpg")
 st.title ('Ester Moon')
 st.header ('Materi Praktik Analisis Titrimetri dan Kimia Organik')
 
